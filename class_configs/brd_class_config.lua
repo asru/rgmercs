@@ -620,8 +620,15 @@ local _ClassConfig = {
             "Fufil's Curtailing Chant",
         },
         ['CureSong'] = {
-            -- Multiple Missing --
+            -- Cure Poison/Disease/Curse Combined --
             "Aria of Absolution",
+			"Aria of Impeccability",
+			"Aria of Amelioration",
+			"Aria of Asceticism",
+			
+			-- Below Level 86 - Cure Poison/Disease Separate From Cure Curse --
+			"Aria of Asceticism", -- Cure Poison/Disease - Level 45
+			"Aria of Innocence", -- Cure Curse - Level 52
         },
         ['AllianceSong'] = {
             "Conjunction of Sticks and Stones",
